@@ -1,0 +1,14 @@
+#box{
+    height:40vh;
+    width:40vh;
+    border-style: solid;
+    padding-top: 5vh;
+}
+body{
+    padding-top: 20vh;
+    background-image: linear-gradient(rgb(187, 187, 245),rgb(247, 213, 219));
+}
+img{
+    width: 10vh;
+    height: 10vh;
+}
